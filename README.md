@@ -1,4 +1,4 @@
-# Shrwnsan Automation
+# @shrwnsan Automation
 
 Machine account for pipeline automation — scheduled scans, data-update PRs,
 and CI maintenance across [@shrwnsan](https://github.com/shrwnsan)'s repositories.
